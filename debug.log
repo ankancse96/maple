@@ -1,0 +1,4 @@
+[1223/094045.693:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Lenovo\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\1352ce45-ad92-4598-b67a-25dc14163d34: The system cannot find the path specified. (0x3)
+[1223/094045.703:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Lenovo\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\89e144e7-47b5-484a-ad99-d2ee00b6f109: The system cannot find the path specified. (0x3)
+[1223/094045.707:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Lenovo\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\934893f0-871c-4338-92c4-154351595dbe: The system cannot find the path specified. (0x3)
+[1223/094045.719:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
